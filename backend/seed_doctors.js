@@ -1,7 +1,7 @@
 import mongoose from 'mongoose';
 import doctorModel from './models/doctorModel.js';
 import 'dotenv/config';
-import bcrypt from 'bcrypt';
+import bcrypt from 'bcryptjs';
 
 const doctors = [
     {
