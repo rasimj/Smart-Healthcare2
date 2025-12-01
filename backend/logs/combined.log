@@ -1,0 +1,603 @@
+2025-11-23 22:14:41 [info]: Server started on port 4000
+2025-11-23 22:14:41 [info]: Environment: development
+2025-11-23 22:14:41 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-11-23 22:25:14 [info]: Server started on port 4000
+2025-11-23 22:25:14 [info]: Environment: development
+2025-11-23 22:25:14 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-11-23 22:26:36 [info]: Server started on port 4000
+2025-11-23 22:26:36 [info]: Environment: development
+2025-11-23 22:26:36 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-11-28 17:13:13 [info]: Server started on port 4000
+2025-11-28 17:13:13 [info]: Environment: development
+2025-11-28 17:13:13 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-11-28 17:14:30 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/admin","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:30 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/admin","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:30 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:30 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:50 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:51 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:51 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:51 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:15:39 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:15:39 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:15:49 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:15:49 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:18:08 [info]: Server started on port 4000
+2025-11-28 17:18:08 [info]: Environment: development
+2025-11-28 17:18:08 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-11-28 17:24:28 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:24:28 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:26:02 [info]: Server started on port 4000
+2025-11-28 17:26:02 [info]: Environment: development
+2025-11-28 17:26:02 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-11-28 17:43:17 [info]: Server started on port 4000
+2025-11-28 17:43:17 [info]: Environment: development
+2025-11-28 17:43:17 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-11-28 17:47:38 [info]: Server started on port 4000
+2025-11-28 17:47:38 [info]: Environment: development
+2025-11-28 17:47:38 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-11-28 18:00:23 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:00:23 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:06:19 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:06:19 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:15:53 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:15:54 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:16:17 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:16:17 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:16:35 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:16:35 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-12-01 10:05:27 [info]: Server started on port 4000
+2025-12-01 10:05:27 [info]: Environment: development
+2025-12-01 10:05:27 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:06:48 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:06:48 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:06:48 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:06:48 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:02 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:02 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:03 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:03 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:57 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/health","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:08:23 [info]: Server started on port 4000
+2025-12-01 10:08:23 [info]: Environment: development
+2025-12-01 10:08:23 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:08:28 [info]: ::1 - - [01/Dec/2025:04:38:28 +0000] "GET /health HTTP/1.1" 200 82 "-" "Go-http-client/1.1"
+2025-12-01 10:08:57 [info]: ::1 - - [01/Dec/2025:04:38:57 +0000] "GET / HTTP/1.1" 200 144 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:08:57 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:08:57 [info]: ::1 - - [01/Dec/2025:04:38:57 +0000] "GET /favicon.ico HTTP/1.1" 404 54 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:08:57 [info]: ::1 - - [01/Dec/2025:04:38:57 +0000] "GET / HTTP/1.1" 200 144 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:08:57 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:08:57 [info]: ::1 - - [01/Dec/2025:04:38:57 +0000] "GET /favicon.ico HTTP/1.1" 404 54 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:08:58 [info]: ::1 - - [01/Dec/2025:04:38:58 +0000] "GET / HTTP/1.1" 200 144 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:08:58 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:08:58 [info]: ::1 - - [01/Dec/2025:04:38:58 +0000] "GET /favicon.ico HTTP/1.1" 404 54 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:08:58 [info]: ::1 - - [01/Dec/2025:04:38:58 +0000] "GET / HTTP/1.1" 200 144 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:08:58 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:08:58 [info]: ::1 - - [01/Dec/2025:04:38:58 +0000] "GET /favicon.ico HTTP/1.1" 404 54 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:08:58 [info]: ::1 - - [01/Dec/2025:04:38:58 +0000] "GET / HTTP/1.1" 200 144 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:08:58 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:08:58 [info]: ::1 - - [01/Dec/2025:04:38:58 +0000] "GET /favicon.ico HTTP/1.1" 404 54 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:17:09 [info]: ::1 - - [01/Dec/2025:04:47:09 +0000] "POST /api/admin/login HTTP/1.1" 200 196 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:18:11 [info]: ::1 - - [01/Dec/2025:04:48:11 +0000] "GET /api/admin/dashboard HTTP/1.1" 200 95 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:18:11 [info]: ::1 - - [01/Dec/2025:04:48:11 +0000] "GET /api/admin/dashboard HTTP/1.1" 304 - "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:18:13 [info]: ::1 - - [01/Dec/2025:04:48:13 +0000] "GET /api/admin/appointments HTTP/1.1" 200 34 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:18:13 [info]: ::1 - - [01/Dec/2025:04:48:13 +0000] "GET /api/admin/appointments HTTP/1.1" 304 - "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:19:34 [info]: ::1 - - [01/Dec/2025:04:49:34 +0000] "POST /api/admin/add-doctor HTTP/1.1" 400 132 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:20:02 [info]: ::1 - - [01/Dec/2025:04:50:02 +0000] "POST /api/admin/add-doctor HTTP/1.1" 400 132 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:22:02 [info]: Server started on port 4000
+2025-12-01 10:22:02 [info]: Environment: development
+2025-12-01 10:22:02 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:22:11 [error]: Error in registerUser {"error":"secretOrPrivateKey must have a value"}
+Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\jsonwebtoken\sign.js:111:20)
+    at registerUser (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/controllers/userController.js:47:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-12-01 10:22:11 [error]: Error occurred {"error":"secretOrPrivateKey must have a value","path":"/api/user/register","method":"POST","ip":"::1"}
+Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\jsonwebtoken\sign.js:111:20)
+    at registerUser (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/controllers/userController.js:47:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-12-01 10:22:11 [info]: ::1 - - [01/Dec/2025:04:52:11 +0000] "POST /api/user/register HTTP/1.1" 500 66 "-" "axios/1.12.2"
+2025-12-01 10:23:56 [info]: Server started on port 4000
+2025-12-01 10:23:57 [info]: Environment: development
+2025-12-01 10:23:57 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:24:06 [info]: User registered successfully {"userId":"692d1f6e79fa4f3d2390a65a","email":"testuser_1764564846427@example.com"}
+2025-12-01 10:24:06 [info]: ::1 - - [01/Dec/2025:04:54:06 +0000] "POST /api/user/register HTTP/1.1" 201 240 "-" "axios/1.12.2"
+2025-12-01 10:24:33 [info]: Server started on port 4000
+2025-12-01 10:24:33 [info]: Environment: development
+2025-12-01 10:24:33 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:24:56 [info]: ::1 - - [01/Dec/2025:04:54:56 +0000] "GET /api/user/get-profile HTTP/1.1" 401 43 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:24:57 [info]: ::1 - - [01/Dec/2025:04:54:57 +0000] "GET /api/doctor/list HTTP/1.1" 200 29 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:27:46 [info]: ::1 - - [01/Dec/2025:04:57:46 +0000] "GET /api/user/get-profile HTTP/1.1" 401 43 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:27:46 [info]: ::1 - - [01/Dec/2025:04:57:46 +0000] "GET /api/doctor/list HTTP/1.1" 200 29 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:29:40 [info]: ::1 - - [01/Dec/2025:04:59:40 +0000] "GET /api/user/get-profile HTTP/1.1" 401 43 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:29:40 [info]: ::1 - - [01/Dec/2025:04:59:40 +0000] "GET /api/doctor/list HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:30:53 [info]: ::1 - - [01/Dec/2025:05:00:53 +0000] "GET /api/doctor/list HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:32:07 [info]: ::1 - - [01/Dec/2025:05:02:07 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:32:09 [info]: ::1 - - [01/Dec/2025:05:02:09 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:32:09 [info]: ::1 - - [01/Dec/2025:05:02:09 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:32:09 [info]: ::1 - - [01/Dec/2025:05:02:09 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:32:09 [info]: ::1 - - [01/Dec/2025:05:02:09 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:32:10 [info]: ::1 - - [01/Dec/2025:05:02:10 +0000] "POST /api/user/register HTTP/1.1" 429 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:37:44 [info]: ::1 - - [01/Dec/2025:05:07:44 +0000] "GET /api/doctor/list HTTP/1.1" 304 - "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:38:35 [info]: ::1 - - [01/Dec/2025:05:08:35 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:38:37 [info]: ::1 - - [01/Dec/2025:05:08:37 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:38:37 [info]: ::1 - - [01/Dec/2025:05:08:37 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:38:42 [info]: ::1 - - [01/Dec/2025:05:08:42 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:38:54 [info]: ::1 - - [01/Dec/2025:05:08:54 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:39:06 [info]: ::1 - - [01/Dec/2025:05:09:06 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:39:10 [info]: ::1 - - [01/Dec/2025:05:09:10 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:39:19 [info]: ::1 - - [01/Dec/2025:05:09:19 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:39:40 [info]: ::1 - - [01/Dec/2025:05:09:40 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:39:40 [info]: ::1 - - [01/Dec/2025:05:09:40 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:39:40 [info]: ::1 - - [01/Dec/2025:05:09:40 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:39:41 [info]: ::1 - - [01/Dec/2025:05:09:41 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:40:15 [info]: ::1 - - [01/Dec/2025:05:10:15 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:40:16 [info]: ::1 - - [01/Dec/2025:05:10:16 +0000] "POST /api/admin/login HTTP/1.1" 429 89 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:40:48 [info]: ::1 - - [01/Dec/2025:05:10:48 +0000] "POST /api/admin/add-doctor HTTP/1.1" 400 132 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:40:58 [info]: Server started on port 4000
+2025-12-01 10:40:59 [info]: Environment: development
+2025-12-01 10:40:59 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:41:46 [info]: ::1 - - [01/Dec/2025:05:11:46 +0000] "POST /api/admin/login HTTP/1.1" 200 196 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:41:52 [info]: Server started on port 4000
+2025-12-01 10:41:52 [info]: Environment: development
+2025-12-01 10:41:52 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:42:05 [info]: ::1 - - [01/Dec/2025:05:12:05 +0000] "POST /api/admin/login HTTP/1.1" 200 196 "-" "axios/1.12.2"
+2025-12-01 10:42:27 [info]: ::1 - - [01/Dec/2025:05:12:27 +0000] "POST /api/admin/add-doctor HTTP/1.1" 400 132 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:42:40 [info]: ::1 - - [01/Dec/2025:05:12:40 +0000] "POST /api/admin/add-doctor HTTP/1.1" 400 132 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:43:47 [info]: ::1 - - [01/Dec/2025:05:13:47 +0000] "POST /api/admin/add-doctor HTTP/1.1" 400 192 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:45:38 [info]: Server started on port 4000
+2025-12-01 10:45:38 [info]: Environment: development
+2025-12-01 10:45:38 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:46:26 [info]: ::1 - - [01/Dec/2025:05:16:26 +0000] "POST /api/admin/add-doctor HTTP/1.1" 200 41 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:46:27 [info]: ::1 - - [01/Dec/2025:05:16:27 +0000] "POST /api/admin/add-doctor HTTP/1.1" 200 134 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:46:28 [info]: ::1 - - [01/Dec/2025:05:16:28 +0000] "POST /api/admin/add-doctor HTTP/1.1" 200 134 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:46:43 [info]: ::1 - - [01/Dec/2025:05:16:43 +0000] "POST /api/admin/all-doctors HTTP/1.1" 200 444 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:46:43 [info]: ::1 - - [01/Dec/2025:05:16:43 +0000] "POST /api/admin/all-doctors HTTP/1.1" 200 444 "http://localhost:5174/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:47:01 [info]: ::1 - - [01/Dec/2025:05:17:01 +0000] "GET /api/doctor/list HTTP/1.1" 200 420 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:47:53 [info]: ::1 - - [01/Dec/2025:05:17:53 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:48:04 [info]: ::1 - - [01/Dec/2025:05:18:04 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:48:26 [info]: ::1 - - [01/Dec/2025:05:18:26 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:49:02 [info]: ::1 - - [01/Dec/2025:05:19:02 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:49:48 [info]: ::1 - - [01/Dec/2025:05:19:48 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:49:50 [info]: ::1 - - [01/Dec/2025:05:19:50 +0000] "POST /api/user/register HTTP/1.1" 429 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:49:52 [info]: ::1 - - [01/Dec/2025:05:19:52 +0000] "POST /api/user/register HTTP/1.1" 429 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:50:32 [info]: ::1 - - [01/Dec/2025:05:20:32 +0000] "POST /api/user/register HTTP/1.1" 429 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:50:32 [info]: ::1 - - [01/Dec/2025:05:20:32 +0000] "POST /api/user/register HTTP/1.1" 429 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:50:32 [info]: ::1 - - [01/Dec/2025:05:20:32 +0000] "POST /api/user/register HTTP/1.1" 429 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:50:32 [info]: ::1 - - [01/Dec/2025:05:20:32 +0000] "POST /api/user/register HTTP/1.1" 429 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:50:33 [info]: ::1 - - [01/Dec/2025:05:20:33 +0000] "POST /api/user/register HTTP/1.1" 429 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:50:42 [info]: ::1 - - [01/Dec/2025:05:20:42 +0000] "POST /api/user/register HTTP/1.1" 429 89 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:51:34 [info]: Server started on port 4000
+2025-12-01 10:51:34 [info]: Environment: development
+2025-12-01 10:51:34 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:52:02 [info]: Server started on port 4000
+2025-12-01 10:52:02 [info]: Environment: development
+2025-12-01 10:52:02 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174
+2025-12-01 10:52:43 [info]: ::1 - - [01/Dec/2025:05:22:43 +0000] "POST /api/user/register HTTP/1.1" 400 175 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:53:00 [info]: User registered successfully {"userId":"692d2634665bc146a4d7fca5","email":"zxc@gmail.com"}
+2025-12-01 10:53:00 [info]: ::1 - - [01/Dec/2025:05:23:00 +0000] "POST /api/user/register HTTP/1.1" 201 240 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:53:01 [info]: ::1 - - [01/Dec/2025:05:23:01 +0000] "GET /api/user/get-profile HTTP/1.1" 200 4031 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:53:23 [info]: ::1 - - [01/Dec/2025:05:23:23 +0000] "POST /api/user/book-appointment HTTP/1.1" 400 128 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:53:33 [info]: ::1 - - [01/Dec/2025:05:23:33 +0000] "POST /api/user/book-appointment HTTP/1.1" 400 128 "http://localhost:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+2025-12-01 10:54:14 [info]: Server started on port 4000
+2025-12-01 10:54:14 [info]: Environment: development
+2025-12-01 10:54:14 [info]: CORS allowed origins: http://localhost:5173, http://localhost:5174

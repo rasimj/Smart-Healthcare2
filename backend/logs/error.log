@@ -1,0 +1,466 @@
+2025-11-28 17:14:30 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/admin","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:30 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/admin","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:30 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:30 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:50 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:51 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:51 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:14:51 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:15:39 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:15:39 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:15:49 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:15:49 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:24:28 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 17:24:28 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:00:23 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:00:23 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:06:19 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:06:19 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:15:53 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:15:54 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:16:17 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:16:17 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:16:35 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-11-28 18:16:35 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at cors (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:188:7)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\cors\lib\index.js:224:17
+2025-12-01 10:06:48 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:06:48 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/doctor/list","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:06:48 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:06:48 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/api/user/get-profile","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:02 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:02 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:03 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:03 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/favicon.ico","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:07:57 [error]: Error occurred {"error":"Cannot set property query of #<IncomingMessage> which has only a getter","path":"/health","method":"GET","ip":"::1"}
+TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at urlencodedParser (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\body-parser\lib\types\urlencoded.js:68:7)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+2025-12-01 10:08:57 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:08:57 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:08:58 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:08:58 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:08:58 [error]: Error occurred {"error":"Not Found - /favicon.ico","path":"/favicon.ico","method":"GET","ip":"::1"}
+Error: Not Found - /favicon.ico
+    at notFoundHandler (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/middlewares/errorHandler.js:39:19)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+    at processParams (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:582:12)
+    at next (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:291:5)
+    at logger (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\morgan\index.js:144:5)
+    at Layer.handleRequest (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:342:13)
+    at C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\router\index.js:297:9
+2025-12-01 10:22:11 [error]: Error in registerUser {"error":"secretOrPrivateKey must have a value"}
+Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\jsonwebtoken\sign.js:111:20)
+    at registerUser (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/controllers/userController.js:47:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-12-01 10:22:11 [error]: Error occurred {"error":"secretOrPrivateKey must have a value","path":"/api/user/register","method":"POST","ip":"::1"}
+Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (C:\Users\DELL\Desktop\PROJECTS\SMART-HEALTHCARE-main\backend\node_modules\jsonwebtoken\sign.js:111:20)
+    at registerUser (file:///C:/Users/DELL/Desktop/PROJECTS/SMART-HEALTHCARE-main/backend/controllers/userController.js:47:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
