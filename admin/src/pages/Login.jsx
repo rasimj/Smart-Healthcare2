@@ -12,7 +12,7 @@ const Login = () => {
     const [password, setPassword] = useState('')
 
     const { setAToken, backendUrl } = useContext(AdminContext)
-    const {setDToken} = useContext(DoctorContext)
+    const { setDToken } = useContext(DoctorContext)
 
     const onSubmitHandler = async (event) => {
         event.preventDefault()
@@ -27,13 +27,13 @@ const Login = () => {
                 } else {
                     toast.error(data.message) // Show error message if login fails
                 }
-            }else{
-                const{data} =await axios.post(backendUrl + '/api/doctor/login',{email,password})
+            } else {
+                const { data } = await axios.post(backendUrl + '/api/doctor/login', { email, password })
                 if (data.success) {
                     localStorage.setItem('dToken', data.token)
                     setDToken(data.token)
                     console.log(data.token);
-                    
+
                 } else {
                     toast.error(data.message) // Show error message if login fails
                 }
@@ -85,6 +85,9 @@ const Login = () => {
                         </span>
                     </p>
                 )}
+                <div className='w-full text-center mt-2'>
+                    <a href={import.meta.env.VITE_FRONTEND_URL || "http://localhost:5173"} className='text-primary underline text-xs'>Return to Home</a>
+                </div>
             </div>
         </form>
     )
