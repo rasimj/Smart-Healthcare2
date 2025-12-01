@@ -101,7 +101,7 @@ const Login = () => {
             : <p>Create an new account?<span onClick={() => setState('Sign Up')} className='text-primary underline cursor-pointer'>click here</span></p>
         }
         <div className="w-full text-center mt-4">
-          <p className="text-xs text-gray-500">Are you a Doctor or Admin? <a href="http://localhost:5174" target="_blank" rel="noopener noreferrer" className="text-primary underline">Login here</a></p>
+          <p className="text-xs text-gray-500">Are you a Doctor or Admin? <a href={import.meta.env.VITE_ADMIN_URL} target="_blank" rel="noopener noreferrer" className="text-primary underline">Login here</a></p>
         </div>
       </div>
 
