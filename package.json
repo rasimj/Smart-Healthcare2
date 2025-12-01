@@ -1,9 +1,0 @@
-{
-    "name": "smart-healthcare-root",
-    "version": "1.0.0",
-    "private": true,
-    "scripts": {
-        "postinstall": "cd backend && npm install",
-        "start": "cd backend && npm start"
-    }
-}
